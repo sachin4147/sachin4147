@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... masia choll
+- 🔭 I’m currently working on ... masai school
 - 🌱 I’m currently learning ... full stack deavelopment
 - 👯 I’m looking to collaborate on ... higghly effective peopele who have ambition in life
 - 🤔 I’m looking for help with ...
