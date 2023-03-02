@@ -7,17 +7,17 @@ mushtaq220
 
 💬 Ask me about react, redux, node, express, mongoDB and javascript
 
-📫 How to reach me mushtaqansari565@gmail.com
+📫 How to reach me sachinshivabugadi1998@gmail.com
 
 ⚡ Fun fact I think I am funny
 
 Connect with me:
 sachinshivabugadi1998@gmail.com
 Languages and Tools:
-babel css3 cypress git html5 javascript react redux typescript webpack
+babel css3, cypress, html5, javascript, react, redux, typescript...
 
 sachin4147
 
- sachin4147
+ 
 
-sachin4147
+
