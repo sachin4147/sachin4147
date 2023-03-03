@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Sachin Shi</h1>
+<h1 align="center">Hi 👋, I'm Sachin Shivabuagdi</h1>
 <h3 align="center">A passionate MERN STACK developer, I am passionate about creating scalable, efficient, and user-friendly applications that meet the needs of clients and end-users. In addition to my technical skills, I value clear communication, attention to detail, and a commitment to continuous learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mushtaq220&label=Profile%20views&color=0e75b6&style=flat" alt="sachin4147" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin4147&label=Profile%20views&color=0e75b6&style=flat" alt="sachin4147" /> </p>
 
 - 🌱 I’m currently learning *React, Redux, Node, Express, MongoDB*
 
 - 💬 Ask me about *react, redux, node, express, mongoDB and javascript*
 
-- 📫 How to reach me *mushtaqansari565@gmail.com*
+- 📫 How to reach me *sachinshivabugadi1998@gmail.com*
 
 - ⚡ Fun fact *I think I am funny*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mushtaq32220060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sachin4147" height="30" width="40" /></a>
+<a href="[https://twitter.com/@mushtaq32220060](https://twitter.com/SShivabugadi?t=yp6G05zlDthllwk_V2iMCw&s=08)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sachin4147" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
