@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin4147&label=Profile%20views&color=0e75b6&style=flat" alt="sachin4147" /> </p>
 
-- 🌱 I’m currently learning *React, Redux, Node, Express, MongoDB*
+- 🌱 I’m currently learning *React, Redux, Node, Express, MongoDB,fastify,postgreysql,PIM,next.js*
 
 - 💬 Ask me about *react, redux, node, express, mongoDB and javascript*
 
